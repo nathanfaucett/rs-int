@@ -1,0 +1,14 @@
+[package]
+name = "int"
+version = "0.1.0"
+authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
+
+keywords = ["signed", "integer", "trait"]
+description = "signed integer trait"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-int.git"
+homepage = "https://github.com/nathanfaucett/rs-int"
+
+[dependencies]
+uint = {git = "https://github.com/nathanfaucett/rs-uint.git"}
