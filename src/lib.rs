@@ -1,10 +1,11 @@
 #![no_std]
 
 
-extern crate uint;
+extern crate abs;
+extern crate num;
 
 
-mod int;
+mod integer;
 
 
-pub use int::Int;
+pub use integer::Integer;

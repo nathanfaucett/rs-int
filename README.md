@@ -1,4 +1,4 @@
-int [![Build Status](https://travis-ci.org/nathanfaucett/rs-int.svg?branch=master)](https://travis-ci.org/nathanfaucett/rs-int)
+integer [![Build Status](https://travis-ci.org/nathanfaucett/rs-integer.svg?branch=master)](https://travis-ci.org/nathanfaucett/rs-integer)
 =====
 
-signed integer trait
+signed integereger trait
