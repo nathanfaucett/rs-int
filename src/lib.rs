@@ -1,7 +1,6 @@
 #![no_std]
 
 
-extern crate abs;
 extern crate num;
 
 
